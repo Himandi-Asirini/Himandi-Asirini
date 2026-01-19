@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Himandi Asirini
 
-<!--
-**Himandi-Asirini/Himandi-Asirini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | 🚀 Tech Enthusiast  
 
-Here are some ideas to get you started:
+I build clean, scalable, and efficient software solutions.  
+Passionate about learning new technologies and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Express
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 What I’m Working On
+- Improving full-stack development skills  
+- Building real-world projects  
+- Writing clean and maintainable code  
+
+---
+
+## 📫 Connect With Me
+- GitHub: [@asirini-dev](https://github.com/asirini-dev)
+
+---
+
+⭐️ *Always learning. Always building.*
+
