@@ -24,7 +24,7 @@ Passionate about learning new technologies and solving real-world problems.
 ---
 
 ## 📫 Connect With Me
-- GitHub: [@asirini-dev](https://github.com/asirini-dev)
+GitHub: [@himandi-asirini](https://github.com/himandi-asirini)
 
 ---
 
