@@ -1,32 +1,60 @@
 # 👋 Hi, I'm Himandi Asirini
 
-💻 Software Developer | 🚀 Tech Enthusiast  
-
-I build clean, scalable, and efficient software solutions.  
-Passionate about learning new technologies and solving real-world problems.
+🎓 Cyber Security Undergraduate @ SLIIT  
+🔐 Passionate about secure systems, ethical hacking, and technology  
+🌱 Currently learning and improving my technical skills  
+💡 Interested in solving real-world problems through technology  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, Java
-- **Frontend:** HTML, CSS, React
-- **Backend:** Node.js, Express
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub, VS Code
+
+**Languages:**  
+- Java  
+- Python  
+- JavaScript  
+
+**Frontend:**  
+- HTML  
+- CSS  
+- React  
+
+**Backend:**  
+- Node.js  
+- Express  
+
+**Databases:**  
+- MySQL  
+- MongoDB  
+
+**Tools & Platforms:**  
+- Git & GitHub  
+- VS Code  
+- Cisco Packet Tracer  
 
 ---
 
-## 📌 What I’m Working On
-- Improving full-stack development skills  
-- Building real-world projects  
+## 🚀 What I'm Working On
+
+- Improving cyber security fundamentals  
+- Learning full-stack development  
+- Building academic and personal projects  
 - Writing clean and maintainable code  
 
 ---
 
-## 📫 Connect With Me
-GitHub: [@himandi-asirini](https://github.com/himandi-asirini)
+## 🌸 Goals
+
+- Become a skilled Cyber Security Professional  
+- Gain hands-on industry experience  
+- Continuously grow as a developer and individual  
 
 ---
 
-⭐️ *Always learning. Always building.*
+## 📫 Connect With Me
 
+- GitHub: [@Himandi-Asirini](https://github.com/Himandi-Asirini)
+
+---
+
+⭐ *Always learning. Always building.*
